@@ -56,7 +56,7 @@ Optimizing LLM inference, quantization and beyond. Production monitoring and obs
 	
 **Project**: Optimizing open source LLM inference. Establishing monitoring with Evidently AI, Prometeus and Grafana.
 	
-### Topic 6️⃣ Fine-Tuning
+### [Topic 6️⃣ Fine-Tuning](https://github.com/Nebius-Academy/LLM-Engineering-Essentials/tree/main/topic6)
 
 Fine-tuning of LLMs and embeddings. Parameter-Efficient Fine-Tuning and LoRA. RLHF and DPO
 	
