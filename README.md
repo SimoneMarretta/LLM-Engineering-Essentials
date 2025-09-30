@@ -50,7 +50,7 @@ Working with open source LLMs and practical LLM inference in production. Computa
 
 **Project**: Deploying a chat service based on a self-served LLM. Serving text encoders and rerankers. Making a cost-to-value choice between API and self-served LLMs.
 	
-### Topic 5️⃣ Optimization and Monitoring
+### [Topic 5️⃣ Optimization and Monitoring](https://github.com/Nebius-Academy/LLM-Engineering-Essentials/tree/main/topic5)
 
 Optimizing LLM inference, quantization and beyond. Production monitoring and observability.
 	
