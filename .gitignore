@@ -1,0 +1,79 @@
+# ---- Python ----
+__pycache__/
+*.py[cod]
+*$py.class
+
+# ---- Virtual environments ----
+.venv/
+venv/
+env/
+ENV/
+
+# ---- Jupyter notebooks ----
+.ipynb_checkpoints
+*.ipynb_save
+
+# ---- Logs and outputs ----
+*.log
+*.out
+*.err
+
+# ---- Data & model artifacts ----
+data/
+datasets/
+*.csv
+*.tsv
+*.jsonl
+*.parquet
+*.h5
+*.ckpt
+*.pth
+*.pt
+*.joblib
+*.pkl
+*.pickle
+*.npz
+*.npy
+
+# Hugging Face transformers cache
+.huggingface/
+.cache/
+transformers_cache/
+
+# ---- Environment/config ----
+.env
+*.env
+.env.*
+*.ini
+*.cfg
+*.toml
+
+# ---- VS Code ----
+.vscode/
+.history/
+
+# ---- OS-specific ----
+.DS_Store
+Thumbs.db
+
+# ---- Build artifacts ----
+build/
+dist/
+*.egg-info/
+.eggs/
+*.manifest
+*.spec
+
+# ---- Testing ----
+.coverage
+coverage.xml
+htmlcov/
+.tox/
+pytest_cache/
+
+# ---- Checkpoints & training artifacts ----
+checkpoints/
+runs/
+wandb/
+mlruns/
+ray_results/
